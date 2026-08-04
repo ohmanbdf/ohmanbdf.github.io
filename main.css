@@ -1,3 +1,4 @@
 h1{background-color: green; color: orange;}
 a{width: 20px; text-decoration: none;}
-body{font-family: "Arial";}
+body{font-family: "Arial"; text-align: center;}
+.exitbutton{border: 3px solid red; border-radius: 30px}
