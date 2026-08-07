@@ -1,2 +1,2 @@
-let heading = document.querySelector('h3');
+let heading = document.querySelector('h1');
 heading.textContent = 'You found a secret... hehe';
