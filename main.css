@@ -1,4 +1,6 @@
 h1{background-color: green; color: orange;}
+h2{background-color: blue; color: orange;}
+h3{background-color: orange; color: green;}
 a{width: 20px; text-decoration: none;}
 body{font-family: "Arial"; text-align: center;}
 .exitbutton{border: 3px solid red; border-radius: 30px; color: white; background-color: red;}
